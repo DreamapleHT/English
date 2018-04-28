@@ -1,0 +1,95 @@
+{
+	"main.html": {
+		"refer": [
+			"setting.html",
+			"login.html",
+			"main/english/english.html",
+			"main/newspaper/listview.html",
+			"main/english/findword.html",
+			"main/getword/getword.html",
+			"main/video/video.html",
+			"main/sourse/resource.html",
+			"main/person/myinfo.html",
+			"main/video/videoT.html"
+		],
+		"resources": []
+	},
+	"login.html": {
+		"refer": [
+			"main.html",
+			"unlock.html",
+			"forget_password.html",
+			"reg.html"
+		],
+		"resources": [
+			"js/app.js",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"css/style.css",
+			"js/mui.enterfocus.js"
+		]
+	},
+	"main/english/english.html": {
+		"refer": [
+			"main.html",
+			"main/english/englishdetails.html"
+		],
+		"resources": [
+			"/main.html"
+		]
+	},
+	"setting.html": {
+		"refer": [
+			"main.html"
+		]
+	},
+	"main/newspaper/listview.html": {
+		"refer": [
+			"main/newspaper/detail.html",
+			"main.html"
+		]
+	},
+	"main/english/englishdetails.html": {
+		"refer": [
+			"main/english/english.html"
+		]
+	},
+	"main/english/findword.html": {
+		"refer": [
+			"main.html"
+		]
+	},
+	"main/getword/getword.html": {
+		"refer": [
+			"main.html",
+			"main/getword/viewword.html"
+		]
+	},
+	"main/getword/viewword.html": {
+		"refer": [
+			"main.html",
+			"main/getword/getword.html"
+		]
+	},
+	"main/video/video.html": {
+		"refer": [
+			"main.html",
+			"main/video/detail.html"
+		]
+	},
+	"main/sourse/resource.html": {
+		"refer": [
+			"main.html"
+		]
+	},
+	"main/person/myinfo.html": {
+		"refer": [
+			"main.html"
+		]
+	},
+	"main/video/videoT.html": {
+		"refer": [
+			"main.html"
+		]
+	}
+}

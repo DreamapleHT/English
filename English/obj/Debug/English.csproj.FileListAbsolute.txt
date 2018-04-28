@@ -1,0 +1,9 @@
+D:\毕业设计\English\English\bin\English.dll.config
+D:\毕业设计\English\English\bin\English.dll
+D:\毕业设计\English\English\bin\English.pdb
+D:\毕业设计\English\English\bin\DAL.dll
+D:\毕业设计\English\English\bin\DAL.pdb
+D:\毕业设计\English\English\obj\Debug\English.dll
+D:\毕业设计\English\English\obj\Debug\English.pdb
+D:\毕业设计\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+D:\毕业设计\English\English\bin\MySql.Data.dll

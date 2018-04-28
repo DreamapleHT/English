@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<link href="../../css/mui.min.css" rel="stylesheet" />
+		<script src="../../js/jquery-1.11.1.js" type="text/javascript" charset="utf-8"></script>
+		<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
+		<script src="js/findword.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+
+	<body>
+	<header class="mui-bar mui-bar-nav">
+			<a href="../../main.html">
+				<span class="mui-icon mui-icon-home" style="color:#75D701"></span>
+			</a>
+			<h1 id="title" class="mui-title" style="color: #3B4E32;">查单词</h1>
+		</header>
+<img src="" alt="" />
+		<div style="margin-top: 200px;text-align: center;">
+			<input id="word" type="text" style="border: none;width: 55%; margin-left: -90px;; position: relative" class="" placeholder="点我查单词...">
+			<button id="findword" type="button" style="border: none;right:30px;height: 44px;width: 77px; margin-top:-5x; position: absolute;z-index: 999999;" data-loading-text="提交中" class="" onclick="findWord()">查询</button>
+		</div>
+		<div id="content" style="height: 400px;">
+			基本释义：
+			<textarea id="details" name="" rows="" cols=""></textarea>
+			网络释义：
+			<textarea id="web" name="" rows="" cols=""></textarea>
+			发        音：
+			
+		
+		</div>
+	</body>
+
+</html>
